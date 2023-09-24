@@ -5,6 +5,10 @@ a simple application containing two screens - Login screen and OTP verification 
 - React Native
 - Nativewind
 
+# Demonstration Video
+
+https://drive.google.com/file/d/1qA1_OKGrf9iPtc7NZvYVFoVR8AuQVgx7/view?usp=drivesdk
+
 # Application Screenshots
 
 ## Login screen
